@@ -1,4 +1,5 @@
 # hello-world
 hello world  
-Well, I am just following the guide.
+I am following the guide to create a new repository.
+
 Add a new line.
