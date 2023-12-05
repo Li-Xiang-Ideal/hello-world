@@ -1,0 +1,3 @@
+This is a new txt file.
+Add a new line to this txt.
+Testing Git.
